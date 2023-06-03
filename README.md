@@ -7,7 +7,7 @@ Bem-vindo ao repositório do SEED - um website de redirecionamento para instala�
 ➜ No website, você encontrará instruções sobre como ver o desenvolvimento do aplicativo.
 
 ## Contribuição | Equipe
-Este Website foi inteiramente desenvolvido por mim, porém, o aplicativo de instalação foi desenvolvivo por:
+Este Website foi inteiramente desenvolvido por mim, porém, o aplicativo de instalação foi desenvolvivo por: <br>
 ➜ [Allan de Albuquerque](https://github.com/AllanAlbuquerque) <br>
 ➜ [Caio Myra](https://github.com/caiomyrapereira)
 
