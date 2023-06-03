@@ -6,9 +6,9 @@ Bem-vindo ao repositório do SEED - um website de redirecionamento para instala�
 ➜ Acesse o website através do link: [SEED Website.](https://seed-website.vercel.app/) <br>
 ➜ No website, você encontrará instruções sobre como ver o desenvolvimento do aplicativo.
 
-## Contribuição
-Este Website foi inteiramente desenvolvido por mim, porém, o aplicativo de instalação tem colaborações de:
-➜ [Allan de Albuquerque](https://github.com/AllanAlbuquerque)
+## Contribuição | Equipe
+Este Website foi inteiramente desenvolvido por mim, porém, o aplicativo de instalação foi desenvolvivo por:
+➜ [Allan de Albuquerque](https://github.com/AllanAlbuquerque) <br>
 ➜ [Caio Myra](https://github.com/caiomyrapereira)
 
 ## Licença
