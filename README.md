@@ -3,7 +3,7 @@
 Bem-vindo ao repositório do SEED - um website de redirecionamento para instalação desenvolvido em HTML, CSS e JavaScript. O SEED é uma plataforma de monitoramento agrícola que visa ajudar agricultores e organizações a enfrentar os desafios da agricultura de forma mais eficiente, garantindo segurança alimentar, reduzindo o desperdício e promovendo a sustentabilidade.
 
 ## Como utilizar
-➜ Acesse o website através do link: SEED Website.
+➜ Acesse o website através do link: SEED Website. <br>
 ➜ No website, você encontrará instruções sobre como ver o desenvolvimento do aplicativo.
 
 ## Contribuição
