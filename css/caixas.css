@@ -1,0 +1,105 @@
+.conteudo__ferramentas {
+    background-color: var(--cor-fundo);
+    background-image: url("/images/fundo ferramentas.png");
+    background-size: cover;
+}
+
+.textos__ferramentas {
+    padding-top: 5rem;
+    margin-top: 5rem;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    padding-bottom: 4rem;
+}
+
+.box {
+    width: calc(30% - 2px);
+    height: 100%;
+    margin-bottom: 2.5rem;
+    color: var(--cor-fundo);
+    background-color: var(--cor-caixonas);
+    padding: 35px;
+    box-sizing: border-box;
+    border-radius: 12px;
+
+}
+
+.box h2 {
+    font-size: 1.4rem;
+    font-weight: 700;
+    padding-bottom: 0.7rem;
+    padding-top: 1.8rem;
+}
+
+
+.icon {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70px;
+    height: 70px;
+    margin-top: -4rem;
+    margin-left: 0.6rem;
+    background-color: #333;
+    border-radius: 100rem;
+}
+
+.box .icon img {
+    width: 60%;
+    height: 60%;
+}
+
+@media only screen and (max-width: 1101px) and (min-width: 0px) {
+
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        margin-left: 1rem;
+        margin-right: 1rem;
+        padding-bottom: 4rem;
+    }
+
+    .box {
+        width: calc(100% - 2px);
+        height: 14rem;
+        margin-bottom: 2.4rem;
+        padding: 35px;
+        box-sizing: border-box;
+        border-radius: 12px;
+
+    }
+
+    .textos__ferramentas {
+        padding-top: 5rem;
+        padding-bottom: 2.6rem;
+        margin-top: 7rem;
+    }
+}
+
+
+@media only screen and (max-width: 1400px) and (min-width: 1101px) {
+
+    .box {
+        width: calc(50% - 15px);
+        height: 18rem;
+        margin-bottom: 2.4rem;
+        padding: 35px;
+        box-sizing: border-box;
+        border-radius: 12px;
+    }
+
+    .textos__ferramentas {
+        padding-top: 5rem;
+        padding-bottom: 4rem;
+        margin-top: 7rem;
+    }
+}
