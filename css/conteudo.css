@@ -73,12 +73,16 @@
     }
 
     .imagem__section {
-        width: 55%;
+        width: 90%;
         margin-bottom: 2.4rem;
     }
 
     .imagem__iphone {
         width: 20rem;
         margin-left: 0 !important;
+    }
+    
+    .download__disponivel {
+    width: 18rem;
     }
 }
