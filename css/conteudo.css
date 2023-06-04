@@ -42,7 +42,7 @@
 
 @media screen and (max-width: 1200px) {
     .margem__conteudo {
-        margin-left: 1rem;
+        margin-left: 1rem !important;
         margin-right: 1rem;
     }
 
@@ -73,11 +73,12 @@
     }
 
     .imagem__section {
-        width: 60%;
+        width: 55%;
         margin-bottom: 2.4rem;
     }
 
     .imagem__iphone {
         width: 20rem;
+        margin-left: 0 !important;
     }
 }
