@@ -69,11 +69,11 @@
         flex-wrap: wrap;
         align-items: center;
         width: 94%;
-        text-align: left;
+        margin-left: -1rem;
     }
 
     .imagem__section {
-        width: 70%;
+        width: 60%;
         margin-bottom: 2.4rem;
     }
 
