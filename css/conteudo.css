@@ -62,6 +62,7 @@
         display: flex;
         flex-wrap: wrap-reverse;
         justify-content: center;
+        margin-left: 0;
     }
 
     .texto__section {
@@ -69,7 +70,6 @@
         flex-wrap: wrap;
         align-items: center;
         width: 94%;
-        margin-left: -1rem;
     }
 
     .imagem__section {
