@@ -6,6 +6,9 @@ Bem-vindo ao repositório do SEED - um website de redirecionamento para instala�
 ➜ Acesse o website através do link: [SEED Website.](https://seed-website.vercel.app/) <br>
 ➜ No website, você encontrará instruções sobre como ver o desenvolvimento do aplicativo.
 
+##  Protótipo no Figma
+Confira o prótitpo  do website e aplicativo no Figma = https://www.figma.com/file/LWs14TRmBqVo5wR6U7m9V0/Global-Solutions-FIAP?type=design&node-id=14%3A5&t=udZoW3jUvf5l2IGc-1
+
 ## Contribuição | Equipe
 Este website foi inteiramente desenvolvido por mim, porém, o aplicativo de instalação foi desenvolvivo por: <br>
 ➜ [Allan de Albuquerque](https://github.com/AllanAlbuquerque) <br>
